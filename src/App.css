@@ -1,0 +1,174 @@
+.App {
+  text-align: center;
+}
+
+
+
+.top-black-bar {
+  background-color: black;
+  padding-bottom: 25px;
+}
+
+.black-bar-offer {
+  color: white;
+  font-size: 25px;
+  position: static;
+}
+
+.black-bar-phone {
+  color: white;
+  font-size: 17px;
+  padding-left: 10%;
+} 
+.black-bar-locations {
+  color: white;
+  font-size: 17px;
+  padding-left: 10%;
+}
+
+.link-bb {
+  color: white;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+.navbarnicon {
+  padding-top: 10px;
+  padding-left: 300px;
+  font-size: large;
+  float: left;
+}
+.loginbtn {
+  background-color: burlywood;
+  border: none;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  border-radius: 6%;
+  font-size: 20px;
+
+}
+
+.link-reg {
+  color: black;
+}
+
+.navbarreg {
+  padding-top: 10px;
+  padding-left: 50px;
+  padding-right: 20px;
+  font-size: large;
+  float: left;
+}
+
+.navbari {
+  padding-top: 15px;
+  padding-left: 5px;
+  float: left;
+}
+
+.featured1 {
+  position: relative;
+  padding-right: 20%;
+  padding-top: 10%;
+}
+
+.textline1-1 {
+  font-size: 30px;
+}
+.textline2-1 {
+  font-size: 25px;
+}
+.textline3-1 {
+  font-size: 40px;
+}
+
+.buynowbtn {
+  background-color: rgb(100, 49, 49);
+  border: none;
+  color: white;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  border-radius: 6%;
+  font-size: 20px;
+}
+
+.featured2 {
+  background-color: burlywood;
+  position: relative;
+  padding-left: 30%;
+  padding-top: 10%;
+}
+
+.textline1-2 {
+  font-size: 20px;
+}
+.textline2-2 {
+  color: white;
+  font-size: 35px;
+}
+.textline3-2 {
+  font-size: 15px;
+}
+
+.producttitle {
+  font-size: 30px;
+}
+
+.product {
+  background-color: lightgrey;
+  padding-top: 10px;
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  margin-left:100px;
+  display:inline-block;
+
+}
+
+.page-btm {
+  padding-top: 5%;
+  background-color: rgb(41, 41, 41);
+  color: white;
+}
+
+hr {
+  color: white;
+}
+
+.contact-us-text {
+  display:inline-block;
+}
+.my-account-text {
+  display:inline-block;
+}
+.sign-up-newsletter {
+  display:inline-block;
+}
+.help-text {
+  display:inline-block;
+}
+.shopping-text {
+  display:inline-block;
+}
+.info-text {
+  display:inline-block;
+}
+.services-text {
+  display:inline-block;
+}
+
+.page-btm-link {
+  color:white;
+}
